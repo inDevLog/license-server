@@ -1,7 +1,12 @@
-
-"ABCD1234": {
-    "user": "Hieu",
-    "hwid": "",
-    "expire": "2026-12-30"
+{
+    "ABCD1234": {
+        "user": "Hieu",
+        "hwid": "",
+        "expire": "2026-12-30"
+    },
+    "XD7C4W7T": {
+        "user": "test",
+        "hwd": "",
+        "expire": "2026-01-03"
+    }
 }
-
