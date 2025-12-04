@@ -96,7 +96,12 @@
     },
     "PU4HWVA4": {
         "user": "a",
-        "hwd": "a49cf37fe403ee211332",
+        "hwd": "",
         "expire": "2025-12-06"
+    },
+    "7X1Y2GWO": {
+        "user": "ddd",
+        "hwd": "",
+        "expire": "2025-12-07"
     }
 }
