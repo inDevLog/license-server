@@ -1,4 +1,10 @@
 {
+    "ABCD1234": {
+        "user": "Hieu",
+        "hwid": "",
+        "expire": "2026-12-30",
+        "hwd": ""
+    },
     "XD7C4W7T": {
         "user": "test",
         "hwd": "",
@@ -202,11 +208,6 @@
     "QP181ME9": {
         "user": "\u0111\u01b0a",
         "hwd": "",
-        "expire": "2025-12-26"
-    },
-    "9VGNJCQ9": {
-        "user": "22",
-        "hwd": "a49cf37fe403ee21133",
         "expire": "2025-12-26"
     }
 }
