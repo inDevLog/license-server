@@ -83,5 +83,10 @@
         "user": "test",
         "hwd": "",
         "expire": "2026-01-28"
+    },
+    "1J2HMI79": {
+        "user": "tttt",
+        "hwd": "",
+        "expire": "2026-01-27"
     }
 }
