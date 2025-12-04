@@ -118,5 +118,10 @@
         "user": "zzzcccccccc",
         "hwd": "a49cf37fe403ee211332",
         "expire": "2025-12-06"
+    },
+    "XHGSW1H1": {
+        "user": "ooo",
+        "hwd": "",
+        "expire": "2025-12-05"
     }
 }
