@@ -78,5 +78,10 @@
         "user": "tet",
         "hwd": "",
         "expire": "2026-01-06"
+    },
+    "SKRJ5RUD": {
+        "user": "test",
+        "hwd": "",
+        "expire": "2026-01-28"
     }
 }
