@@ -113,5 +113,10 @@
         "user": "ddd",
         "hwd": "",
         "expire": "2086-10-07"
+    },
+    "MKPNFS4O": {
+        "user": "zzzcccccccc",
+        "hwd": "",
+        "expire": "2025-12-06"
     }
 }
